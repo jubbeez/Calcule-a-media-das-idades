@@ -1,6 +1,10 @@
-# Calcule-a-media-das-idades
+<div align="center">
+<h1>Programa que calcula a média das idades dos familiares com JavaScript</h1>
+</div>
 
-Programa que calcula a média das idades dos familiares com JavaScript.
+<div align="center">
+<h2>Estudo para lógica de programação</h2>
+</div>
 
 1- Digite quantos familiares deseja contar;
 2- Digite as idades de cada um;
